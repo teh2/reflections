@@ -8,4 +8,26 @@ How is the staging area different from the working directory and the repository?
 
 	The staging area is not a "real" directory. It just exists as meta data (down inside of .git). But it allows you to collect up the pieces of your project in preparation for the commit. I would think that some times, it would be difficult to pull together all of the items for a commit in one enormous command line. And, what if you changed your mind? There must be a way to remove something from the "staging area". Right?
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	When you are ready to commit, you can do "git status" to see all of your current changes. Then, you can "git add" just the changes for a particular logical change to the staging area, and commit that. Then repeat, until all logical changes have been committed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
