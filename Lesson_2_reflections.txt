@@ -1,0 +1,11 @@
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creats the .git folder, which holds the initial metadata for the repository. I assume that it will eventually hold all of the commit information as well...
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is not a "real" directory. It just exists as meta data (down inside of .git). But it allows you to collect up the pieces of your project in preparation for the commit. I would think that some times, it would be difficult to pull together all of the items for a commit in one enormous command line. And, what if you changed your mind? There must be a way to remove something from the "staging area". Right?
+
+
