@@ -26,6 +26,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	merging branches interleaves all of the commits of the two branches together. It's currently a little unclear which branch is the source and which is the target... If I merge a branch that I currently have checked out, do I end up in that same branch? Or do I switch to the branch I merged? If I merge two branches that are neither one the branch I've currently checked out, where do I end up?
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	automatic merging is a huge time saver. It also minimizes human error that could get introduced during the process of cut and paste editing that would be necessary to manually merge everything.
+
 
 
 
