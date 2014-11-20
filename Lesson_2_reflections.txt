@@ -16,6 +16,12 @@ What are some situations when branches would be helpful in keeping your history 
 
 	As mentioned in the lesson: experiments, new features, etc. But, I think the most useful use of branches is in situations where multiple developers are working on parallel enhancements. In this case, commits in one branch don't affect another branch. I've also used branches to "save off" a known good working version of a project - either for release, or just to have a solid base to step back to if things go awry.
 
+How do the diagrams help you visualize the branch structure?
+
+	It's easy to lose mental track of what's going on, because it's easy to get a bunch of branches in the works, and have lots of commits thrown at each branch. And how do you remember it all? You need a picture!
+	
+	It's interesting that the Udacity instructors draw commit relationships with arrows pointing to the "parent". I typically draw relationships with the arrows pointing to the "child"...
+
 
 
 
