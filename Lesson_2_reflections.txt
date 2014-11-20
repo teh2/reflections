@@ -12,6 +12,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	When you are ready to commit, you can do "git status" to see all of your current changes. Then, you can "git add" just the changes for a particular logical change to the staging area, and commit that. Then repeat, until all logical changes have been committed.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	As mentioned in the lesson: experiments, new features, etc. But, I think the most useful use of branches is in situations where multiple developers are working on parallel enhancements. In this case, commits in one branch don't affect another branch. I've also used branches to "save off" a known good working version of a project - either for release, or just to have a solid base to step back to if things go awry.
+
 
 
 
