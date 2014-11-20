@@ -30,6 +30,7 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 
 	automatic merging is a huge time saver. It also minimizes human error that could get introduced during the process of cut and paste editing that would be necessary to manually merge everything.
 
+This is a test reflection. I'm trying to get N++ to work as the commit editor...
 
 
 
