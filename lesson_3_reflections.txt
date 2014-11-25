@@ -1,3 +1,10 @@
 I wonder what the first reflection for lesson 3 is going to be?
 
   No idea, but I bet it'll be interesting.
+
+So, here it is:
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+  I would choose to use a remote repository in at least two situations. First, when I'm working with other developers - that way, we can all see the code. And we can work together. Second, I'd use a remote repository when it's likely that I'll be making updates from multiple computers. This would give me the ability to update the code from anywhere, on any device.
+
