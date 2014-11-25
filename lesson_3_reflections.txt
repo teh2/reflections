@@ -12,3 +12,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	If you are in the middle of a major feature addition, you would be better off working from a stable code base. If your collaborator starts pushing a major change, and gets distracted in the middle, you might get only part of the change and your local copy might not work very well.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Branches are logical groupings of commits. clones are complete mirrors of a repo. forks are also mirrors of repos, but with much different permissions. Branches are for separating different lines of development. Clones are for duplicating entire repositories on new machines. And Forks are for duplicating entire repositories on github itself. Hmm. Not totally happy with this explanation, but it's clear in my head.
+
