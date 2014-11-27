@@ -24,3 +24,16 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	I've done collaboration with floppy disks in the past. I've used networked chared hard drives. I've done extreme programming where both collaborators sit at the same computer. As far as easier and harder... almost everything's easier with a version control tool, because it's mostly automated, and there are reminders everywhere to be conscious of your collaborators. The one thing that I will say in favor of manual collaboration is that I've found the pairs programming of extreme to be quite effective in terms of avoiding the entire merge process all together.
 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	As before, branches are for keeping separate lines of coding separate. So, when doing experimental things, or complex things, or things that might "break everything", it's a good idea to keep them separate from the main line of code until they are complete, tested, and ready to be part of the main line.
+
+
+
+
+
+
+
+
+
